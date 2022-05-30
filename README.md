@@ -221,8 +221,7 @@ Normal Mode 에서 qt, qg, qq 등 `q[name]` 을 입력할 경우 위 사진과 �
 
 ### 3) [number]@[name]로 매크로 여러번 실행
 
-<img width="1440" alt="스크린샷 2022-05-30 오후 2 38 20" src="https://user-images.githubusercontent.com/83526046/170925429-dbe94059-20e6-456e-be93-a5e15cea6cdc.png">
-<img width="1440" alt="스크린샷 2022-05-30 오후 2 38 37" src="https://user-images.githubusercontent.com/83526046/170925446-b7baeef4-b0a4-41dd-821f-fa1b1c686331.png">
+<img alt="스크린샷 2022-05-30 오후 2 38 20" src="https://user-images.githubusercontent.com/83526046/170925429-dbe94059-20e6-456e-be93-a5e15cea6cdc.png" width="500" heigh="500"> <img alt="스크린샷 2022-05-30 오후 2 38 37" src="https://user-images.githubusercontent.com/83526046/170925446-b7baeef4-b0a4-41dd-821f-fa1b1c686331.png" width="500" heigh="500">
 
 
 위 두 사진은 qt를 통해 라인 지우기를 메크로에 저장한 메크로를 `2@t`를 활용하여 연속으로 메크로가 2번 실행하게 하였다.
@@ -238,12 +237,12 @@ Normal Mode 에서 qt, qg, qq 등 `q[name]` 을 입력할 경우 위 사진과 �
 
 ## 💡참고
 
-* **[Top](https://ironmask84.tistory.com/355 "top 명령어 참고 사이트")
+**[Top](https://ironmask84.tistory.com/355 "top 명령어 참고 사이트")
 
-* **[Ps](https://jhnyang.tistory.com/268 "ps 명령어 참고 사이트")
+**[Ps](https://jhnyang.tistory.com/268 "ps 명령어 참고 사이트")
 
-* **[Jobs](https://hbase.tistory.com/265 "ps 명령어 참고 사이트")
+**[Jobs](https://hbase.tistory.com/265 "ps 명령어 참고 사이트")
 
-* **[Kill](https://m.blog.naver.com/koromoon/220804715310 "kill 명령어 참고 사이트")
+**[Kill](https://m.blog.naver.com/koromoon/220804715310 "kill 명령어 참고 사이트")
 
-* **[vim](https://ko.wikipedia.org/wiki/Vim "에디터 참고 사이트")
+**[vim](https://ko.wikipedia.org/wiki/Vim "에디터 참고 사이트")
