@@ -238,8 +238,12 @@ Normal Mode 에서 qt, qg, qq 등 `q[name]` 을 입력할 경우 위 사진과 �
 
 ## 💡참고
 
-[Top](https://ironmask84.tistory.com/355 "top 명령어 참고 사이트")
-[Ps](https://jhnyang.tistory.com/268 "ps 명령어 참고 사이트")
-[Jobs](https://hbase.tistory.com/265 "ps 명령어 참고 사이트")
-[Kill](https://m.blog.naver.com/koromoon/220804715310"kill 명령어 참고 사이트")
-[vim](https://ko.wikipedia.org/wiki/Vim"에디터 참고 사이트")
+* **[Top](https://ironmask84.tistory.com/355 "top 명령어 참고 사이트")
+
+* **[Ps](https://jhnyang.tistory.com/268 "ps 명령어 참고 사이트")
+
+* **[Jobs](https://hbase.tistory.com/265 "ps 명령어 참고 사이트")
+
+* **[Kill](https://m.blog.naver.com/koromoon/220804715310 "kill 명령어 참고 사이트")
+
+* **[vim](https://ko.wikipedia.org/wiki/Vim "에디터 참고 사이트")
